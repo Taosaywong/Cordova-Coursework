@@ -1,8 +1,8 @@
-Coursework Hybrid App
+# Coursework Hybrid App
 
 
 
-# Basic Feature
+Basic Feature
 
 - Able to Login and Register
 
@@ -11,7 +11,7 @@ Coursework Hybrid App
 - Live Search Trip Expenses Item
 
 
-# Limitation
+Limitation
 
 - No Geolocation 
 
